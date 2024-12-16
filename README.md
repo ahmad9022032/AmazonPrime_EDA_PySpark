@@ -87,6 +87,6 @@ Netflix_EDA_PySpark/
 
 
 ## Results
-All the results are attached in the screen record video in the repository named CE408
+All the results are attached in the screen record video in the repository named CE408_Results.zip
 
 
